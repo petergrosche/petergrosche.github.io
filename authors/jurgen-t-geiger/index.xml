@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jürgen T Geiger | Peter Grosche - Audio DSP, Data Science, Music AI</title>
+    <link>https://petergrosche.github.io/authors/jurgen-t-geiger/</link>
+      <atom:link href="https://petergrosche.github.io/authors/jurgen-t-geiger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jürgen T Geiger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Peter Grosche 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petergrosche.github.io/img/icon-192.png</url>
+      <title>Jürgen T Geiger</title>
+      <link>https://petergrosche.github.io/authors/jurgen-t-geiger/</link>
+    </image>
+    
+    <item>
+      <title>DIALOGUE ENHANCEMENT OF STEREO SOUND</title>
+      <link>https://petergrosche.github.io/publication/geiger-2015-dialogue/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/geiger-2015-dialogue/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

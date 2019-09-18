@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Peter Grosche - Audio DSP, Data Science, Music AI</title>
+    <link>https://petergrosche.github.io/authors/</link>
+      <atom:link href="https://petergrosche.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Peter Grosche 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petergrosche.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://petergrosche.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Fabian Brinkmann</title>
+      <link>https://petergrosche.github.io/authors/fabian-brinkmann/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/fabian-brinkmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Pablo Bello</title>
+      <link>https://petergrosche.github.io/authors/juan-pablo-bello/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/juan-pablo-bello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manoj Dinakaran</title>
+      <link>https://petergrosche.github.io/authors/manoj-dinakaran/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/manoj-dinakaran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meinard Müller</title>
+      <link>https://petergrosche.github.io/authors/meinard-muller/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/meinard-muller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mikko Parviainen</title>
+      <link>https://petergrosche.github.io/authors/mikko-parviainen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/mikko-parviainen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pasi Pertilä</title>
+      <link>https://petergrosche.github.io/authors/pasi-pertila/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/pasi-pertila/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Grosche</title>
+      <link>https://petergrosche.github.io/authors/peter-grosche/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/peter-grosche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rasmus R Paulsen</title>
+      <link>https://petergrosche.github.io/authors/rasmus-r-paulsen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/rasmus-r-paulsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Pelzer</title>
+      <link>https://petergrosche.github.io/authors/robert-pelzer/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/robert-pelzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ron Weiss</title>
+      <link>https://petergrosche.github.io/authors/ron-weiss/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/ron-weiss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Weinzierl</title>
+      <link>https://petergrosche.github.io/authors/stefan-weinzierl/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/stefan-weinzierl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stine Harder</title>
+      <link>https://petergrosche.github.io/authors/stine-harder/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/stine-harder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuomas Virtanen</title>
+      <link>https://petergrosche.github.io/authors/tuomas-virtanen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/tuomas-virtanen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Schörkhuber</title>
+      <link>https://petergrosche.github.io/authors/christian-schorkhuber/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/christian-schorkhuber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Franz Zotter</title>
+      <link>https://petergrosche.github.io/authors/franz-zotter/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/franz-zotter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthias Frank</title>
+      <link>https://petergrosche.github.io/authors/matthias-frank/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/matthias-frank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Höldrich</title>
+      <link>https://petergrosche.github.io/authors/robert-holdrich/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/robert-holdrich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jürgen T Geiger</title>
+      <link>https://petergrosche.github.io/authors/jurgen-t-geiger/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/jurgen-t-geiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yesenia Lacouture Parodi</title>
+      <link>https://petergrosche.github.io/authors/yesenia-lacouture-parodi/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/yesenia-lacouture-parodi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> others</title>
+      <link>https://petergrosche.github.io/authors/others/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alberto Messina</title>
+      <link>https://petergrosche.github.io/authors/alberto-messina/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/alberto-messina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Björn Schuller</title>
+      <link>https://petergrosche.github.io/authors/bjorn-schuller/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/bjorn-schuller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Kirst</title>
+      <link>https://petergrosche.github.io/authors/christian-kirst/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/christian-kirst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyril Joder</title>
+      <link>https://petergrosche.github.io/authors/cyril-joder/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/cyril-joder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Davide Bertola</title>
+      <link>https://petergrosche.github.io/authors/davide-bertola/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/davide-bertola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felix Weninger</title>
+      <link>https://petergrosche.github.io/authors/felix-weninger/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/felix-weninger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francisco Morán Burgos</title>
+      <link>https://petergrosche.github.io/authors/francisco-moran-burgos/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/francisco-moran-burgos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giovanni Cordara</title>
+      <link>https://petergrosche.github.io/authors/giovanni-cordara/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/giovanni-cordara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joan Serrà</title>
+      <link>https://petergrosche.github.io/authors/joan-serra/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/joan-serra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Ll Arcos</title>
+      <link>https://petergrosche.github.io/authors/josep-ll-arcos/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/josep-ll-arcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jürgen Geiger</title>
+      <link>https://petergrosche.github.io/authors/jurgen-geiger/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/jurgen-geiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonardo Chiariglione</title>
+      <link>https://petergrosche.github.io/authors/leonardo-chiariglione/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/leonardo-chiariglione/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marius Preda</title>
+      <link>https://petergrosche.github.io/authors/marius-preda/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/marius-preda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milos Markovic</title>
+      <link>https://petergrosche.github.io/authors/milos-markovic/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/milos-markovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicola Piotto</title>
+      <link>https://petergrosche.github.io/authors/nicola-piotto/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/nicola-piotto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sergio Garcı́a Lobo</title>
+      <link>https://petergrosche.github.io/authors/sergio-garc%C4%B1a-lobo/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/sergio-garc%C4%B1a-lobo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Matthias Grosche</title>
+      <link>https://petergrosche.github.io/authors/peter-matthias-grosche/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/peter-matthias-grosche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gerhard Rigoll</title>
+      <link>https://petergrosche.github.io/authors/gerhard-rigoll/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/gerhard-rigoll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Lluis Arcos</title>
+      <link>https://petergrosche.github.io/authors/josep-lluis-arcos/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/josep-lluis-arcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Lluı́s Arcos</title>
+      <link>https://petergrosche.github.io/authors/josep-llu%C4%B1s-arcos/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/josep-llu%C4%B1s-arcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanzhu Jiang</title>
+      <link>https://petergrosche.github.io/authors/nanzhu-jiang/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/nanzhu-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hendrik Schreiber</title>
+      <link>https://petergrosche.github.io/authors/hendrik-schreiber/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/hendrik-schreiber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verena Konz</title>
+      <link>https://petergrosche.github.io/authors/verena-konz/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/verena-konz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Craig Stuart Sapp</title>
+      <link>https://petergrosche.github.io/authors/craig-stuart-sapp/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/craig-stuart-sapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frank Kurth</title>
+      <link>https://petergrosche.github.io/authors/frank-kurth/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/frank-kurth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frans Wiering</title>
+      <link>https://petergrosche.github.io/authors/frans-wiering/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/frans-wiering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhe Zuo</title>
+      <link>https://petergrosche.github.io/authors/zhe-zuo/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/zhe-zuo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Ewert</title>
+      <link>https://petergrosche.github.io/authors/sebastian-ewert/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/sebastian-ewert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://petergrosche.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a creative engineer with a background in digital signal processing and data science and a passion for audio and music. With a strong hands-on and can-do attitude, I enjoy working on new and challenging audio technologies and love to deliver results which create a great user experience.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

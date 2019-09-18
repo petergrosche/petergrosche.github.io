@@ -1,0 +1,5303 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.4.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Peter Grosche">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Research Engineer &amp; Data Scientist">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://petergrosche.github.io/publication/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.dd629241ea9333c62c071f4a25f829ff.css">
+
+  
+
+  
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-84501254-2', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="https://www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+  
+
+  
+  <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="Peter Grosche - Audio DSP, Data Science, Music AI">
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://petergrosche.github.io/publication/">
+
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Peter Grosche - Audio DSP, Data Science, Music AI">
+  <meta property="og:url" content="https://petergrosche.github.io/publication/">
+  <meta property="og:title" content="Publications | Peter Grosche - Audio DSP, Data Science, Music AI">
+  <meta property="og:description" content="Research Engineer &amp; Data Scientist"><meta property="og:image" content="https://petergrosche.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://petergrosche.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+    <meta property="og:updated_time" content="2018-01-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>Publications | Peter Grosche - Audio DSP, Data Science, Music AI</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Peter Grosche - Audio DSP, Data Science, Music AI</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/cv/"><span>CV</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+<div class="universal-wrapper pt-3">
+  <h1 itemprop="name">Publications</h1>
+
+  
+
+  
+</div>
+
+
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+
+      
+
+      
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+
+      <div class="form-row mb-4">
+        <div class="col-auto">
+          <input type="search" class="filter-search" placeholder="Search..." autocapitalize="off"
+          autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
+            <option value="*">Type</option>
+            
+            
+            <option value=".pubtype-1">
+              Conference paper
+            </option>
+            
+            <option value=".pubtype-2">
+              Journal article
+            </option>
+            
+            <option value=".pubtype-4">
+              Report
+            </option>
+            
+            <option value=".pubtype-6">
+              Book section
+            </option>
+            
+            <option value=".pubtype-7">
+              Thesis
+            </option>
+            
+          </select>
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters form-control form-control-sm" data-filter-group="year">
+            <option value="*">Date</option>
+            
+            
+            
+            <option value=".year-2018">
+              2018
+            </option>
+            
+            <option value=".year-2016">
+              2016
+            </option>
+            
+            <option value=".year-2015">
+              2015
+            </option>
+            
+            <option value=".year-2014">
+              2014
+            </option>
+            
+            <option value=".year-2013">
+              2013
+            </option>
+            
+            <option value=".year-2012">
+              2012
+            </option>
+            
+            <option value=".year-2011">
+              2011
+            </option>
+            
+            <option value=".year-2010">
+              2010
+            </option>
+            
+            <option value=".year-2009">
+              2009
+            </option>
+            
+            <option value=".year-2008">
+              2008
+            </option>
+            
+            <option value=".year-2006">
+              2006
+            </option>
+            
+            
+          </select>
+        </div>
+      </div>
+
+      <div id="container-publications">
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2018">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/parviainen-2018-time/"  itemprop="url">Time-Frequency Masking Strategies for Single-Channel Low-Latency Speech Enhancement Using Neural Networks</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      This paper presents a low-latency neural network based speech enhancement system. Low-latency operation is critical for speech …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/mikko-parviainen/">Mikko Parviainen</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/pasi-pertila/">Pasi Pertilä</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/tuomas-virtanen/">Tuomas Virtanen</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/328764260" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/parviainen-2018-time/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/IWAENC.2018.8521400" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/parviainen-2018-time/" >
+      <img src="/publication/parviainen-2018-time/featured_hu33ea63d73d8838b6049e1f0b62ba035c_37618_150x0_resize_lanczos_2.PNG" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2018">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/dinakaran-2018-perceptually/"  itemprop="url">Perceptually motivated analysis of numerically simulated head-related transfer functions generated by various 3D surface scanning systems</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Numerical simulations offer a feasible alternative to the direct acoustic measurement of individual head-related transfer functions …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/manoj-dinakaran/">Manoj Dinakaran</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/fabian-brinkmann/">Fabian Brinkmann</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/stine-harder/">Stine Harder</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/robert-pelzer/">Robert Pelzer</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/rasmus-r-paulsen/">Rasmus R Paulsen</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/stefan-weinzierl/">Stefan Weinzierl</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/dinakaran-2018-perceptually/cite.bib">
+  Cite
+</button>
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://dx.doi.org/10.14279/depositonce-8487" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://sigport.org/sites/default/files/docs/PosterPresentations_ICASSP2018_Manoj_2107_0.pdf" target="_blank" rel="noopener">
+  Poster
+</a>
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/ICASSP.2018.8461789" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/dinakaran-2018-perceptually/" >
+      <img src="/publication/dinakaran-2018-perceptually/featured_hu2c717b791285766ae87051cdf0fd75c2_217476_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-6 year-2018">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/bello-2018-content/"  itemprop="url">Content-based Methods for Knowledge Discovery in Music</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      This chapter presents several computational approaches aimed at supporting knowledge discovery in music. Our work combines data mining, …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/juan-pablo-bello/">Juan Pablo Bello</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ron-weiss/">Ron Weiss</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/323930023_Content-Based_Methods_for_Knowledge_Discovery_in_Music" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/bello-2018-content/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-662-55004-5_39" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/bello-2018-content/" >
+      <img src="/publication/bello-2018-content/featured_hu11297d414f3356c3ba09a15d28522895_92283_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2016">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/dinakaran-2016-extraction/"  itemprop="url">Extraction of anthropometric measures from 3d-meshes for the individualization of head-related transfer functions</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Anthropometric measures are used for individualizing head-related transfer functions (HRTFs) for example, by selecting best match HRTFs …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/manoj-dinakaran/">Manoj Dinakaran</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/fabian-brinkmann/">Fabian Brinkmann</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/stefan-weinzierl/">Stefan Weinzierl</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://www.aes.org/e-lib/browse.cfm?elib=18277" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/dinakaran-2016-extraction/cite.bib">
+  Cite
+</button>
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://dx.doi.org/10.14279/depositonce-8487" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/dinakaran-2016-extraction/" >
+      <img src="/publication/dinakaran-2016-extraction/featured_hu433fabcd056cc366433bb5d77316b8b2_235379_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2016">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/schorkhuber-2016-automatic/"  itemprop="url">Automatic Mixing for Immersive Teleconferencing Systems</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      The aim of immersive teleconferencing is to convey a realistic sound field impression to a remote participant. To this end, the spatial …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/christian-schorkhuber/">Christian Schörkhuber</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/matthias-frank/">Matthias Frank</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/franz-zotter/">Franz Zotter</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/robert-holdrich/">Robert Höldrich</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/301890617" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/schorkhuber-2016-automatic/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/schorkhuber-2016-automatic/" >
+      <img src="/publication/schorkhuber-2016-automatic/featured_hu964473d4bb57387e4b8f38697eb25fda_21459_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2015">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/geiger-2015-dialogue/"  itemprop="url">DIALOGUE ENHANCEMENT OF STEREO SOUND</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Studies show that many people have difficulties in understanding dialogue in movies when watching TV, especially hard-of-hearing …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jurgen-t-geiger/">Jürgen T Geiger</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/yesenia-lacouture-parodi/">Yesenia Lacouture Parodi</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/305910715" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/geiger-2015-dialogue/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/EUSIPCO.2015.7362507" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/geiger-2015-dialogue/" >
+      <img src="/publication/geiger-2015-dialogue/featured_hub2730a92836faa1ba67bf5780a509c98_47037_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2014">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/serra-2014-unsupervised/"  itemprop="url">Unsupervised Music Structure Annotation by Time Series Structure Features and Segment Similarity</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Automatically inferring the structural properties of raw multimedia documents is essential in today’s digitized society. Given its …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/joan-serra/">Joan Serrà</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/josep-ll-arcos/">Josep Ll Arcos</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/264006858" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/serra-2014-unsupervised/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://www.iiia.csic.es/~jserra/downloads/2012_SerraMGA_MIREX-Structure.tar.gz" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.music-ir.org/mirex/results/2012/mirex_2012_poster.pdf" target="_blank" rel="noopener">
+  Poster
+</a>
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/TMM.2014.2310701" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/serra-2014-unsupervised/" >
+      <img src="/publication/serra-2014-unsupervised/featured_huc32ca94573660cd61409ba2ed25d2c34_5135_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2014">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/kirst-2014-line/"  itemprop="url">On-line NMF-based Stereo Up-Mixing of Speech Improves Perceived Reduction of Non-Stationary Noise</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Speech de-noising algorithms often suffer from introduction of artifacts, either by removal of parts of the speech signal, or imperfect …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/christian-kirst/">Christian Kirst</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/felix-weninger/">Felix Weninger</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/cyril-joder/">Cyril Joder</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jurgen-geiger/">Jürgen Geiger</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/bjorn-schuller/">Björn Schuller</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/289043323" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/kirst-2014-line/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/kirst-2014-line/" >
+      <img src="/publication/kirst-2014-line/featured_hu5545f59a380a0bda786c3d438ee5c168_7830_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-4 year-2014">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/cordara-2014-d-7/"  itemprop="url">D7. 1: BRIDGET Authoring Tools and Player</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Connected and Social media BRIDGET is opening new dimensions for multimedia content creation and consumption by enhancing broadcast …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/giovanni-cordara/">Giovanni Cordara</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/nicola-piotto/">Nicola Piotto</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person">Sergio Garcı́a Lobo</span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/francisco-moran-burgos/">Francisco Morán Burgos</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/davide-bertola/">Davide Bertola</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/leonardo-chiariglione/">Leonardo Chiariglione</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/marius-preda/">Marius Preda</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/milos-markovic/">Milos Markovic</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/alberto-messina/">Alberto Messina</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/others/">others</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://ict-bridget.eu" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/cordara-2014-d-7/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/cordara-2014-d-7/" >
+      <img src="/publication/cordara-2014-d-7/featured_hu4937cf069ec0923346fdb31766e90d4f_69678_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2013">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-2013-towards/"  itemprop="url">Towards cover group thumbnailing</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      In this paper we investigate whether we can extract the commonalities shared by a group of cover songs or versions of the same musical …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/joan-serra/">Joan Serrà</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/262334428" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-2013-towards/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/2502081.2502161" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-2013-towards/" >
+      <img src="/publication/grosche-2013-towards/featured_huaf792e578434dee017929025ac9eac98_157409_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-7 year-2013">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-2013-signal/"  itemprop="url">Signal processing methods for beat tracking, music segmentation, and audio retrieval</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      The goal of music information retrieval (MIR) is to develop novel strategies and techniques for organizing, exploring, accessing, and …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-matthias-grosche/">Peter Matthias Grosche</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/298070700" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-2013-signal/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.audiolabs-erlangen.de/resources/MIR/tempogramtoolbox/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.22028/D291-26471" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-2013-signal/" >
+      <img src="/publication/grosche-2013-signal/featured_hu419dd94ce10e746198e1d8050390adfa_192610_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2012">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/serra-mga-12-boundary-detection-aaai/"  itemprop="url">Unsupervised detection of music boundaries by time series structure features</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Locating boundaries between coherent and/or repetitive segments of a time series is a challenging problem pervading many scientific …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/joan-serra/">Joan Serrà</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/josep-lluis-arcos/">Josep Lluis Arcos</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/312446034" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/serra-mga-12-boundary-detection-aaai/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/serra-mga-12-boundary-detection-aaai/" >
+      <img src="/publication/serra-mga-12-boundary-detection-aaai/featured_hub21686de39c9a747c5a65b7ae9b506b2_48108_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2012">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-2012-toward-1/"  itemprop="url">Toward Musically-Motivated Audio Fingerprints</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      In this paper, we investigate to which extent well-known audio fingerprinting techniques, which aim at identifying a specific audio …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/261466498" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-2012-toward-1/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/ICASSP.2012.6287825" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-2012-toward-1/" >
+      <img src="/publication/grosche-2012-toward-1/featured_hue1936cc0cb81cc288d8d7a12e81b6fbb_100119_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2012">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-2012-toward/"  itemprop="url">Toward characteristic audio shingles for efficient cross-version music retrieval</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      The general goal of cross-version music retrieval is to identify all versions of a given piece of music by means of a short query audio …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/261090757" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-2012-toward/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/ICASSP.2012.6287919" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-2012-toward/" >
+      <img src="/publication/grosche-2012-toward/featured_hu87841befb2191bdc9c44bce802539e34_140053_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2012">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-2012-structure/"  itemprop="url">Structure-Based Audio Fingerprinting for Music Retrieval</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Content-based approaches to music retrieval are of great relevance as they do not require any kind of manually generated annotations. …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/joan-serra/">Joan Serrà</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person">Josep Lluı́s Arcos</span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/290561691" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-2012-structure/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.1416170" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-2012-structure/" >
+      <img src="/publication/grosche-2012-structure/featured_hu8e39d11b42ef2fdfae8814570af0052a_73577_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2012">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-2012-automatic/"  itemprop="url">Automatic transcription of recorded music</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      The automatic transcription of music recordings with the objective to derive a score-like representation from a given audio …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/bjorn-schuller/">Björn Schuller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/gerhard-rigoll/">Gerhard Rigoll</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/224929591" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-2012-automatic/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.3813/AAA.918505" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-2012-automatic/" >
+      <img src="/publication/grosche-2012-automatic/featured_hu567e968d20fb657c26504908b2303694_24496_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2012">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/muller-2012-automated/"  itemprop="url">Automated segmentation of folk song field recordings</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      In this paper, we introduce an automated procedure for segmenting a given folk song field recording into its constituent stanzas. One …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/261430417" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/muller-2012-automated/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/muller-2012-automated/" >
+      <img src="/publication/muller-2012-automated/featured_hu80a594a513d776b451d15f19a4db1b6c_29914_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-6 year-2012">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-ms-12-content-based-music-retrieval-dagstuhl-fu/"  itemprop="url">Audio Content-Based Music Retrieval</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      The rapidly growing corpus of digital audio material requires novel retrieval strategies for ex-ploring large music collections. …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/joan-serra/">Joan Serrà</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/266172980" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-ms-12-content-based-music-retrieval-dagstuhl-fu/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.4230/DFU.Vol3.11041.157" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-ms-12-content-based-music-retrieval-dagstuhl-fu/" >
+      <img src="/publication/grosche-ms-12-content-based-music-retrieval-dagstuhl-fu/featured_hube355f9f6e33bad8f051635eebf84af7_61520_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2012">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/muller-2012-robust/"  itemprop="url">A robust fitness measure for capturing repetitions in music recordings with applications to audio thumbnailing</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      The automatic extraction of structural information from music recordings constitutes a central research topic. In this paper, we deal …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/nanzhu-jiang/">Nanzhu Jiang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/260700204" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/muller-2012-robust/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/TASL.2012.2227732" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/muller-2012-robust/" >
+      <img src="/publication/muller-2012-robust/featured_hu62d500e0f9b71e718faff967d849cab3_21003_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2011">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-2011-tempogram/"  itemprop="url">Tempogram toolbox: Matlab implementations for tempo and pulse analysis of music recordings</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      The extraction of local tempo and pulse information from audio recordings constitutes a challenging task, in particular for music with …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/266242895" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-2011-tempogram/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.audiolabs-erlangen.de/resources/MIR/tempogramtoolbox/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S3_PredominantLocalPulse.html" target="_blank" rel="noopener">
+  Poster
+</a>
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-2011-tempogram/" >
+      <img src="/publication/grosche-2011-tempogram/featured_hu7bb70cdb9b7cb809965314e4d2cf559b_247990_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2011">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-2010-extracting/"  itemprop="url">Extracting predominant local pulse information from music recordings</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      The extraction of tempo and beat information from music recordings constitutes a challenging task in particular for non-percussive …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/224201803" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-2010-extracting/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S3_PredominantLocalPulse.html" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/TASL.2010.2096216" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-2010-extracting/" >
+      <img src="/publication/grosche-2010-extracting/featured_hu61ddb884fbada264529a0e02d84b5f45_64047_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2011">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/jiang-2011-analyzing/"  itemprop="url">Analyzing Chroma Feature Types for Automated Chord Recognition</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      The computer-based harmonic analysis of music recordings with the goal to automatically extract chord labels directly from the given …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/nanzhu-jiang/">Nanzhu Jiang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/verena-konz/">Verena Konz</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/jiang-2011-analyzing/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/jiang-2011-analyzing/" >
+      <img src="/publication/jiang-2011-analyzing/featured_hua6f41937dcdd12a0e18246c5e7597cdf_32907_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2011">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/muller-2011-segment/"  itemprop="url">A Segment-based Fitness Measure for Capturing Repetitive Structures of Music Recordings</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      In this paper, we deal with the task of determining the audio segment that best represents a given music recording (similar to audio …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/nanzhu-jiang/">Nanzhu Jiang</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/220723337" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/muller-2011-segment/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.1416342" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/muller-2011-segment/" >
+      <img src="/publication/muller-2011-segment/featured_huee9226870cdf3fafebdfa2d8e8030d0d_92577_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2011">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/schreiber-gm-11-finger-print-ismir/"  itemprop="url">A Re-ordering Strategy for Accelerating Index-based Audio Fingerprinting</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      The Haitsma/Kalker audio fingerprinting system has been in use for years, but its search algorithm’s scalability has not been …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/hendrik-schreiber/">Hendrik Schreiber</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/220723455" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/schreiber-gm-11-finger-print-ismir/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.1417607" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/schreiber-gm-11-finger-print-ismir/" >
+      <img src="/publication/schreiber-gm-11-finger-print-ismir/featured_hu417173596dc4b5837d34e2df9279c792_18690_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2010">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-2010-makes/"  itemprop="url">What makes beat tracking difficult? A case study on Chopin Mazurkas</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      The automated extraction of tempo and beat information from music recordings is a challenging task. Especially in the case of …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/craig-stuart-sapp/">Craig Stuart Sapp</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/220723198" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-2010-makes/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.1415852" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-2010-makes/" >
+      <img src="/publication/grosche-2010-makes/featured_hu2e14973432e890c6739ea239841825ed_12921_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2010">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-2010-tempobasierte/"  itemprop="url">Tempobasierte Segmentierung von Audioaufnahmen</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Die automatische Segmentierung und Strukturierung ist für die automatisierte Verarbeitung von Musikaufnahmen von grundlegender …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/frank-kurth/">Frank Kurth</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/267990015" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-2010-tempobasierte/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-2010-tempobasierte/" >
+      <img src="/publication/grosche-2010-tempobasierte/featured_hu41ecb5bb4a7198929bd95cbf4a91d232_67868_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2010">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-2010-cyclic/"  itemprop="url">Cyclic Tempogram -- A Mid-level Tempo Representation For Music Signals</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      The extraction of local tempo and beat information from audio recordings constitutes a challenging task, particularly for music that …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/frank-kurth/">Frank Kurth</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/224149883" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-2010-cyclic/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/ICASSP.2010.5495219" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-2010-cyclic/" >
+      <img src="/publication/grosche-2010-cyclic/featured_hu0e3bcf4780c221cd9d7fc8692db4b39f_43686_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2010">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/muller-2010-automated/"  itemprop="url">Automated analysis of performance variations in folk song recordings</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Performance analysis of recorded music material has become increasingly important in musicological research and music psychology. In …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/frans-wiering/">Frans Wiering</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/221318835" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/muller-2010-automated/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/1743384.1743429" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/muller-2010-automated/" >
+      <img src="/publication/muller-2010-automated/featured_hu2482157b6fd856b5bf423a1d2345b938_55370_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2010">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/muller-2010-novel/"  itemprop="url">A Novel Timeline Adjustment Functionality for the Interpretation Switcher</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      In this demo we present novel functionalities for a user interface referred to as Interpretation Switcher, which has emerged from the …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/verena-konz/">Verena Konz</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/nanzhu-jiang/">Nanzhu Jiang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/zhe-zuo/">Zhe Zuo</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/265880721" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/muller-2010-novel/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/muller-2010-novel/" >
+      <img src="/publication/muller-2010-novel/featured_hub4d1e9c3274d04e6c36dc17cf88c0015_92495_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2009">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/muller-2009-towards/"  itemprop="url">Towards automated processing of folk song recordings</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Folk music is closely related to the musical culture of a specific nation or region. Even though folk songs have been passed down …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/frans-wiering/">Frans Wiering</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/30816395" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/muller-2009-towards/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/muller-2009-towards/" >
+      <img src="/publication/muller-2009-towards/featured_hu64ef9fee418b0bd87dc089b731d88d87_10912_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2009">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/mueller-gw-09-folk-song-annotation-ismir/"  itemprop="url">Robust Segmentation and Annotation of Folk Song Recordings</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Even though folk songs have been passed down mainly by oral tradition, most musicologists study the relation between folk songs on the …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/frans-wiering/">Frans Wiering</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/47863780" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/mueller-gw-09-folk-song-annotation-ismir/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.1417099" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/mueller-gw-09-folk-song-annotation-ismir/" >
+      <img src="/publication/mueller-gw-09-folk-song-annotation-ismir/featured_hu2e8d87fbfa37afdca978fb0e47fd7506_13428_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2009">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/ewert-2009-high/"  itemprop="url">High resolution audio synchronization using chroma onset features</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      The general goal of music synchronization is to automatically align the multiple information sources such as audio recordings, MIDI …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sebastian-ewert/">Sebastian Ewert</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/224461222" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/ewert-2009-high/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/ICASSP.2009.4959972" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/ewert-2009-high/" >
+      <img src="/publication/ewert-2009-high/featured_hufe6ce44e509a71df5c6a698d744f024f_44005_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2009">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-2009-computing/"  itemprop="url">Computing predominant local periodicity information in music recordings</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      The periodic structure of musical events plays a crucial role in the perception of tempo as well as the sensation of note changes and …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/224086816" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-2009-computing/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://resources.mpi-inf.mpg.de/MIR/tempogramtoolbox/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/ASPAA.2009.5346544" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-2009-computing/" >
+      <img src="/publication/grosche-2009-computing/featured_hu465a87dc5bdb4494767626b102c04148_14990_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2009">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-2009-combination/"  itemprop="url">Combination of Onset-Features with Applications to High-Resolution Music Synchronization</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Many different methods for the detection of note onsets in music recordings have been proposed and applied to tasks such as music …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sebastian-ewert/">Sebastian Ewert</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/228771427" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-2009-combination/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-2009-combination/" >
+      <img src="/publication/grosche-2009-combination/featured_huce170fbf883cf6559ffa42265ebdcbf1_78020_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2009">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-m-09-tempogram-ismir/"  itemprop="url">A mid-level representation for capturing dominant tempo and pulse information in music recordings</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Automated beat tracking and tempo estimation from music recordings become challenging tasks in the case of non-percussive music with …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-grosche/">Peter Grosche</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/meinard-muller/">Meinard Müller</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/publication/47863791" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-m-09-tempogram-ismir/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.1416016" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-m-09-tempogram-ismir/" >
+      <img src="/publication/grosche-m-09-tempogram-ismir/featured_hud7aade92b91762656ddd88540e28dff1_27191_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-7 year-2008">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-2008-poly/"  itemprop="url">Polyphonic Music Transcription based on Real Audio</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Automatic music transcription is a challenging task that has been the topic of many research groups since 1977. The problem has been …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-matthias-grosche/">Peter Matthias Grosche</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/grosche-2008-poly/grosche-2008-poly.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-2008-poly/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-2008-poly/" >
+      <img src="/publication/grosche-2008-poly/featured_hu1f7037032a0d55ea87cdc455dffd2d10_21059_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-7 year-2006">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/grosche-2006-ba/"  itemprop="url">Entwicklung einer Applikation zur automatischen Strukturierung und Analyse grosser Musikdatenbanken</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Diese Arbeit beschäftigt sich mit der Organisation und Strukturierung von Musikdatenbanken. Der Schwerpunkt der entwickelten Methoden …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peter-matthias-grosche/">Peter Matthias Grosche</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/grosche-2006-ba/grosche-2006-ba.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/grosche-2006-ba/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/grosche-2006-ba/" >
+      <img src="/publication/grosche-2006-ba/featured_hu21e657f88833784716b8339b4c3c51b7_31028_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+          
+        </div>
+
+        
+      </div>
+
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.16bbb3750feb7244c9bc409a5a4fe678.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; Peter Grosche 2019 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

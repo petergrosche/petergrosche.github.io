@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Grosche - Audio DSP, Data Science, Music AI</title>
+    <link>https://petergrosche.github.io/</link>
+      <atom:link href="https://petergrosche.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Grosche - Audio DSP, Data Science, Music AI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Peter Grosche 2019</copyright><lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petergrosche.github.io/img/icon-192.png</url>
+      <title>Peter Grosche - Audio DSP, Data Science, Music AI</title>
+      <link>https://petergrosche.github.io/</link>
+    </image>
+    
+    <item>
+      <title>CV</title>
+      <link>https://petergrosche.github.io/cv/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/cv/</guid>
+      <description>&lt;table cellspacing=&#34;0&#34; border=&#34;0&#34; style=&#34;line-height:1.0&#34;&gt;
+    
+    &lt;colgroup width=&#34;150&#34;&gt;&lt;/colgroup&gt;
+    &lt;colgroup width=&#34;15&#34;&gt;&lt;/colgroup&gt;
+    &lt;colgroup width=&#34;520&#34;&gt;&lt;/colgroup&gt;
+    &lt;tr&gt;
+        &lt;td style=&#34;border-bottom: 1px solid #000000&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;Experience&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;td style=&#34;border-bottom: 1px solid #000000&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td style=&#34;border-bottom: 1px solid #000000&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;18&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Audio Technologies Researcher at Huawei Technologies, Munich Research Center&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;01.2017 &amp;ndash; present&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Principal Research Engineer&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;124&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Audio technology specialist for media playback, speech enhancement, AR/VR and Audio Intelligence applications for smartphones&lt;br&gt;Designing DSP solutions for loudspeaker correction and protection, microphone array speech processing, and VR 3D audio rendering&lt;br&gt;Developing AI systems for media content and music genre recognition (DNN), acoustic scene and environment recognition (SVM) and source separation (LSTM)&lt;br&gt;Ensuring deliverables from R&amp;amp;D of next generation audio solutions to products&lt;br&gt;Implementation of algorithms in Matlab, Pyton, float C utilizing TensorFlow, Keras, CURRENNT, and TF Lite toolkits&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;01.2015 &amp;ndash; 12.2016&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Senior Research Engineer&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;144&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Developing DSP solutions for sound playback enhancement (micro-speaker and headphones) and voice communication (uplink and downlink)&lt;br&gt;Extending SWS: incorporating algorithms for stereo to 5 channel upmixing, dialogue enhancement, and crosstalk cancellation&lt;br&gt;Researching speech enhancement algorithms for voice communication, microphone array noise reduction and speech intelligibility enhancement&lt;br&gt;Implementing algorithms in Matlab and float C; developing real-time demonstrators using VST and Android SDK/NDK toolkits&lt;br&gt;Delivering algorithms to tablets (Mediapads M2, M3) and smartphones (Mate 9)&lt;br&gt;Managing technical collaboration projects with universities and SMEs &lt;br&gt;Securing IPR, filing 30+ PCT applications&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;11.2012 &amp;ndash; 12.2014&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Research Engineer 3D Audio&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;144&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Designing a complete DSP solution for sound playback enhancement with increased sound quality on smartphones&lt;br&gt;Delivering the Huawei SWS (Super Wide Sound) sound enhancement solution to Huawei Mediapad products (replacing the omnipresent DTS suite)&lt;br&gt;Developing algorithms: EQ, DRC, limiting, bass enhancement (missing fundamental), binaural rendering and crosstalk cancellation&lt;br&gt;Rapid prototyping, product related research and demonstration of audio DSP algorithms to stakeholders and product lines&lt;br&gt;Implementing a complete sound enhancement solution satisfying product requirements (Matlab), writing efficient code meeting hardware limitations (floating point C) and assisting fixed-point integration (Tensilica HiFi)&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Music Information Retrieval Researcher at Saarland University, Saarbr&amp;uuml;cken&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;06.2008 &amp;ndash; 10.2012&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Research and teaching in the field of audio and music signal processing and music information retrieval&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Developing audio DSP algorithms for music analysis, feature extraction, and efficient content-based search in large music databases&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;67&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Researching beat tracking and tempo estimation algorithms which can cope with time variying tempo and classical music without drums; repetition based music segmentation and structure analysis (chorus detection); music retrieval and cover song recognition based on Locality-sensitive hashing (LSH) for efficient similarity search; music transcription and chord recognition&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Research intern at NYU Music and Audio Research Laboratory, New York&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;10.2010 &amp;ndash; 11.2010&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Developed an unsupervised musical motif discovery system using sparse convolutive Non-Negative Matrix Factorization (NMF) in Python&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Research intern at the Audio &amp;amp; Multimedia Department at Fraunhofer IIS, Erlangen&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;02.2007 &amp;ndash; 05.2007&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Surround Upmix: Development of algorithms for converting stereo to 5.1 (Matlab)&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Instrument recognition in polyphonic music signals based on Hidden Markov Models (HMM) using HTK Speech Recognition toolkit&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Research assistant at the Institute for Human-Machine Communication, TUM&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;12.2005 &amp;ndash; 01.2006&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Assisted in building a multimodal database for developing and evaluating&lt;br&gt;emotion recognition procedures&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Intern at Akustikb&amp;uuml;ro Schwartzenberger &amp;amp; Burkhart, P&amp;ouml;cking, Germany.&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;02.2005 &amp;ndash; 04.2005&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Room acoustic measurements, simulations and optimizations&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td style=&#34;border-bottom: 1px solid #000000&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;Education&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;td style=&#34;border-bottom: 1px solid #000000&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td style=&#34;border-bottom: 1px solid #000000&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;PhD in Computer Science at Saarland University and Max-Planck-Institut Informatik, Saarbr&amp;uuml;cken, Germany&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;29&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;06.2008 &amp;ndash; 11.2012&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Title of PhD thesis: &amp;quot;Signal Processing Methods for Beat Tracking, Music Segmentation, and Audio Retrieval&amp;quot;&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;20&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;20+ publications at scientific conferences, journals and books&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;20&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Supervised by Prof. Meinard M&amp;uuml;ller&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;20&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Degree: Dr.-Ing, Grade: magna cum laude (very good)&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Master in Electrical Engineering and Information Technology at TU M&amp;uuml;nchen, Germany&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;33&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;10.2004 &amp;ndash; 05.2008&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Main focus on Digital Signal Processing, Pattern Recognition, Information Retrieval and Human-Machine Interaction; Personal focus on audio and music analysis&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;68&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Diploma thesis: &amp;quot;Polyphonic Music Transcription based on Real Audio&amp;quot;&lt;br&gt;Supervised by Prof. Bj&amp;ouml;rn Schuller&lt;br&gt;Developed a complete system deriving a symbolic MIDI representation from a polyphonic audio recording; combining mulit-pitch estimation, onset detection and Hidden Markov Models (HMM) for pitch tracking. &lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;20&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Degree: Dipl.-Ing. Univ., Grade: 1.5 (very good)&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Studies abroad: Lunds Universitet, Lund, Sweden&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;08.2006 &amp;ndash; 01.2007&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Selected courses in Machine Learning and statistics&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Undergraduate studies in Electrical Engineering and Information Technology at TU M&amp;uuml;nchen, Germany&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;10.2002 &amp;ndash; 10.2004&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Main focus on Information Technology and Communication Engineering&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;29&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Bachelor thesis: &amp;quot;An Application for Automatically Organizing, Structuring, and Analyzing Large Music Collections&amp;quot;&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;42&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Developed a foobar2000 component adding genre recognition and music similarity search functionality based on custom feature extraction and SVM classification; Tools: Weka, LIBSVM, C++&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&#34;20&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Degree: B.Sc., Grade: 1.6 (good)&lt;/font&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Legal Disclosure</title>
+      <link>https://petergrosche.github.io/legal/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/legal/</guid>
+      <description>
+
+&lt;h4 id=&#34;information-in-accordance-with-section-5-tmg&#34;&gt;Information in accordance with Section 5 TMG&lt;/h4&gt;
+
+&lt;p&gt;Peter Grosche&lt;br /&gt;
+Limmatstr. 3&lt;br /&gt;
+81476 München&lt;/p&gt;
+
+&lt;h4 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h4&gt;
+
+&lt;p&gt;Telephone: 01788818922&lt;br /&gt;
+E-Mail: peter.grosche@gmail.com&lt;/p&gt;
+
+&lt;h4 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h4&gt;
+
+&lt;p&gt;The contents on my homepage have been created with the adequate care. However, I cannot guarantee that the contents are accurate, complete or up-to-date. According to statutory provisions, I am responsible for my own content but I am not obliged to monitor the information of third parties or investigate signs of illegal activity. My obligation to prevent the use of information under generally applicable laws remains unaffected by this as per §§ 8 to 10 of the Telemedia Act (TMG).
+Responsibility for the content of linked external pages remains solely with the operators of the linked pages. No violations were evident to me at the time of linking. Should any legal infringement become known to me, I will remove the link immediately.&lt;/p&gt;
+
+&lt;h4 id=&#34;copyright&#34;&gt;Copyright&lt;/h4&gt;
+
+&lt;p&gt;My contents are subject to German copyright law. Unless expressly permitted by law, every form of utilizing, reproducing or processing content on my web pages requires the prior consent of the respective owner of the rights. Any unauthorized use may violate copyright laws.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Content-based Methods for Knowledge Discovery in Music</title>
+      <link>https://petergrosche.github.io/publication/bello-2018-content/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/bello-2018-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptually motivated analysis of numerically simulated head-related transfer functions generated by various 3D surface scanning systems</title>
+      <link>https://petergrosche.github.io/publication/dinakaran-2018-perceptually/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/dinakaran-2018-perceptually/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-Frequency Masking Strategies for Single-Channel Low-Latency Speech Enhancement Using Neural Networks</title>
+      <link>https://petergrosche.github.io/publication/parviainen-2018-time/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/parviainen-2018-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extraction of anthropometric measures from 3d-meshes for the individualization of head-related transfer functions</title>
+      <link>https://petergrosche.github.io/publication/dinakaran-2016-extraction/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/dinakaran-2016-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Mixing for Immersive Teleconferencing Systems</title>
+      <link>https://petergrosche.github.io/publication/schorkhuber-2016-automatic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/schorkhuber-2016-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIALOGUE ENHANCEMENT OF STEREO SOUND</title>
+      <link>https://petergrosche.github.io/publication/geiger-2015-dialogue/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/geiger-2015-dialogue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D7. 1: BRIDGET Authoring Tools and Player</title>
+      <link>https://petergrosche.github.io/publication/cordara-2014-d-7/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/cordara-2014-d-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-line NMF-based Stereo Up-Mixing of Speech Improves Perceived Reduction of Non-Stationary Noise</title>
+      <link>https://petergrosche.github.io/publication/kirst-2014-line/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/kirst-2014-line/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Music Structure Annotation by Time Series Structure Features and Segment Similarity</title>
+      <link>https://petergrosche.github.io/publication/serra-2014-unsupervised/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/serra-2014-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal processing methods for beat tracking, music segmentation, and audio retrieval</title>
+      <link>https://petergrosche.github.io/publication/grosche-2013-signal/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2013-signal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards cover group thumbnailing</title>
+      <link>https://petergrosche.github.io/publication/grosche-2013-towards/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2013-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A robust fitness measure for capturing repetitions in music recordings with applications to audio thumbnailing</title>
+      <link>https://petergrosche.github.io/publication/muller-2012-robust/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/muller-2012-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio Content-Based Music Retrieval</title>
+      <link>https://petergrosche.github.io/publication/grosche-ms-12-content-based-music-retrieval-dagstuhl-fu/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-ms-12-content-based-music-retrieval-dagstuhl-fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated segmentation of folk song field recordings</title>
+      <link>https://petergrosche.github.io/publication/muller-2012-automated/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/muller-2012-automated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic transcription of recorded music</title>
+      <link>https://petergrosche.github.io/publication/grosche-2012-automatic/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2012-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-Based Audio Fingerprinting for Music Retrieval</title>
+      <link>https://petergrosche.github.io/publication/grosche-2012-structure/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2012-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward characteristic audio shingles for efficient cross-version music retrieval</title>
+      <link>https://petergrosche.github.io/publication/grosche-2012-toward/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2012-toward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Musically-Motivated Audio Fingerprints</title>
+      <link>https://petergrosche.github.io/publication/grosche-2012-toward-1/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2012-toward-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised detection of music boundaries by time series structure features</title>
+      <link>https://petergrosche.github.io/publication/serra-mga-12-boundary-detection-aaai/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/serra-mga-12-boundary-detection-aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Re-ordering Strategy for Accelerating Index-based Audio Fingerprinting</title>
+      <link>https://petergrosche.github.io/publication/schreiber-gm-11-finger-print-ismir/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/schreiber-gm-11-finger-print-ismir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Segment-based Fitness Measure for Capturing Repetitive Structures of Music Recordings</title>
+      <link>https://petergrosche.github.io/publication/muller-2011-segment/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/muller-2011-segment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Chroma Feature Types for Automated Chord Recognition</title>
+      <link>https://petergrosche.github.io/publication/jiang-2011-analyzing/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/jiang-2011-analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting predominant local pulse information from music recordings</title>
+      <link>https://petergrosche.github.io/publication/grosche-2010-extracting/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2010-extracting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tempogram toolbox: Matlab implementations for tempo and pulse analysis of music recordings</title>
+      <link>https://petergrosche.github.io/publication/grosche-2011-tempogram/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2011-tempogram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Timeline Adjustment Functionality for the Interpretation Switcher</title>
+      <link>https://petergrosche.github.io/publication/muller-2010-novel/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/muller-2010-novel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated analysis of performance variations in folk song recordings</title>
+      <link>https://petergrosche.github.io/publication/muller-2010-automated/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/muller-2010-automated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyclic Tempogram -- A Mid-level Tempo Representation For Music Signals</title>
+      <link>https://petergrosche.github.io/publication/grosche-2010-cyclic/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2010-cyclic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tempobasierte Segmentierung von Audioaufnahmen</title>
+      <link>https://petergrosche.github.io/publication/grosche-2010-tempobasierte/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2010-tempobasierte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What makes beat tracking difficult? A case study on Chopin Mazurkas</title>
+      <link>https://petergrosche.github.io/publication/grosche-2010-makes/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2010-makes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mid-level representation for capturing dominant tempo and pulse information in music recordings</title>
+      <link>https://petergrosche.github.io/publication/grosche-m-09-tempogram-ismir/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-m-09-tempogram-ismir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combination of Onset-Features with Applications to High-Resolution Music Synchronization</title>
+      <link>https://petergrosche.github.io/publication/grosche-2009-combination/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2009-combination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing predominant local periodicity information in music recordings</title>
+      <link>https://petergrosche.github.io/publication/grosche-2009-computing/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2009-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High resolution audio synchronization using chroma onset features</title>
+      <link>https://petergrosche.github.io/publication/ewert-2009-high/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/ewert-2009-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Segmentation and Annotation of Folk Song Recordings</title>
+      <link>https://petergrosche.github.io/publication/mueller-gw-09-folk-song-annotation-ismir/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/mueller-gw-09-folk-song-annotation-ismir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards automated processing of folk song recordings</title>
+      <link>https://petergrosche.github.io/publication/muller-2009-towards/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/muller-2009-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polyphonic Music Transcription based on Real Audio</title>
+      <link>https://petergrosche.github.io/publication/grosche-2008-poly/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2008-poly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entwicklung einer Applikation zur automatischen Strukturierung und Analyse grosser Musikdatenbanken</title>
+      <link>https://petergrosche.github.io/publication/grosche-2006-ba/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2006-ba/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

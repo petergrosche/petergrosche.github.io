@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Kirst | Peter Grosche - Audio DSP, Data Science, Music AI</title>
+    <link>https://petergrosche.github.io/authors/christian-kirst/</link>
+      <atom:link href="https://petergrosche.github.io/authors/christian-kirst/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Kirst</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Peter Grosche 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petergrosche.github.io/img/icon-192.png</url>
+      <title>Christian Kirst</title>
+      <link>https://petergrosche.github.io/authors/christian-kirst/</link>
+    </image>
+    
+    <item>
+      <title>On-line NMF-based Stereo Up-Mixing of Speech Improves Perceived Reduction of Non-Stationary Noise</title>
+      <link>https://petergrosche.github.io/publication/kirst-2014-line/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/kirst-2014-line/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

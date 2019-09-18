@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josep Lluis Arcos | Peter Grosche - Audio DSP, Data Science, Music AI</title>
+    <link>https://petergrosche.github.io/authors/josep-lluis-arcos/</link>
+      <atom:link href="https://petergrosche.github.io/authors/josep-lluis-arcos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Josep Lluis Arcos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Peter Grosche 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petergrosche.github.io/img/icon-192.png</url>
+      <title>Josep Lluis Arcos</title>
+      <link>https://petergrosche.github.io/authors/josep-lluis-arcos/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised detection of music boundaries by time series structure features</title>
+      <link>https://petergrosche.github.io/publication/serra-mga-12-boundary-detection-aaai/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/serra-mga-12-boundary-detection-aaai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
