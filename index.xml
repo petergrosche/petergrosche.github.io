@@ -5,7 +5,7 @@
     <link>https://petergrosche.github.io/</link>
       <atom:link href="https://petergrosche.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Grosche - Audio DSP, Data Science, Music AI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Peter Grosche 2020</copyright><lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Peter Grosche 2021</copyright><lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petergrosche.github.io/img/icon-192.png</url>
       <title>Peter Grosche - Audio DSP, Data Science, Music AI</title>
@@ -238,6 +238,22 @@ Responsibility for the content of linked external pages remains solely with the 
 
 &lt;p&gt;My contents are subject to German copyright law. Unless expressly permitted by law, every form of utilizing, reproducing or processing content on my web pages requires the prior consent of the respective owner of the rights. Any unauthorized use may violate copyright laws.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A cross-evaluated database of measured and simulated HRTFs including 3D head meshes, anthropometric features, and headphone impulse responses</title>
+      <link>https://petergrosche.github.io/publication/brinkmann-2019-cross/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/brinkmann-2019-cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The HUTUBS head-related transfer function (HRTF) database</title>
+      <link>https://petergrosche.github.io/publication/11303-9429/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/11303-9429/</guid>
+      <description></description>
     </item>
     
     <item>

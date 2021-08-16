@@ -5,7 +5,7 @@
     <link>https://petergrosche.github.io/authors/</link>
       <atom:link href="https://petergrosche.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Peter Grosche 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Peter Grosche 2021</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petergrosche.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
+      <title>Brinkmann AND Manoj, Dinakaran AND Robert, Pelzer AND Jan Joschka, Wohlgemuth AND Fabian, Seipel AND Daniel, Voss AND Peter, Grosche AND Stefan, Weinzierl Fabian</title>
+      <link>https://petergrosche.github.io/authors/brinkmann-and-manoj-dinakaran-and-robert-pelzer-and-jan-joschka-wohlgemuth-and-fabian-seipel-and-daniel-voss-and-peter-grosche-and-stefan-weinzierl-fabian/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/brinkmann-and-manoj-dinakaran-and-robert-pelzer-and-jan-joschka-wohlgemuth-and-fabian-seipel-and-daniel-voss-and-peter-grosche-and-stefan-weinzierl-fabian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Voss</title>
+      <link>https://petergrosche.github.io/authors/daniel-voss/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/daniel-voss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fabian Brinkmann</title>
       <link>https://petergrosche.github.io/authors/fabian-brinkmann/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://petergrosche.github.io/authors/fabian-brinkmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manoj Dinakaran</title>
+      <link>https://petergrosche.github.io/authors/manoj-dinakaran/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/manoj-dinakaran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Grosche</title>
+      <link>https://petergrosche.github.io/authors/peter-grosche/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/peter-grosche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Pelzer</title>
+      <link>https://petergrosche.github.io/authors/robert-pelzer/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/robert-pelzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Weinzierl</title>
+      <link>https://petergrosche.github.io/authors/stefan-weinzierl/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/authors/stefan-weinzierl/</guid>
       <description></description>
     </item>
     
@@ -25,14 +73,6 @@
       <link>https://petergrosche.github.io/authors/juan-pablo-bello/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://petergrosche.github.io/authors/juan-pablo-bello/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Manoj Dinakaran</title>
-      <link>https://petergrosche.github.io/authors/manoj-dinakaran/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://petergrosche.github.io/authors/manoj-dinakaran/</guid>
       <description></description>
     </item>
     
@@ -61,14 +101,6 @@
     </item>
     
     <item>
-      <title>Peter Grosche</title>
-      <link>https://petergrosche.github.io/authors/peter-grosche/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://petergrosche.github.io/authors/peter-grosche/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rasmus R Paulsen</title>
       <link>https://petergrosche.github.io/authors/rasmus-r-paulsen/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -77,26 +109,10 @@
     </item>
     
     <item>
-      <title>Robert Pelzer</title>
-      <link>https://petergrosche.github.io/authors/robert-pelzer/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://petergrosche.github.io/authors/robert-pelzer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ron Weiss</title>
       <link>https://petergrosche.github.io/authors/ron-weiss/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://petergrosche.github.io/authors/ron-weiss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stefan Weinzierl</title>
-      <link>https://petergrosche.github.io/authors/stefan-weinzierl/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://petergrosche.github.io/authors/stefan-weinzierl/</guid>
       <description></description>
     </item>
     

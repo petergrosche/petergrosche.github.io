@@ -5,12 +5,20 @@
     <link>https://petergrosche.github.io/authors/peter-grosche/</link>
       <atom:link href="https://petergrosche.github.io/authors/peter-grosche/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Grosche</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Peter Grosche 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Peter Grosche 2021</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petergrosche.github.io/img/icon-192.png</url>
       <title>Peter Grosche</title>
       <link>https://petergrosche.github.io/authors/peter-grosche/</link>
     </image>
+    
+    <item>
+      <title>A cross-evaluated database of measured and simulated HRTFs including 3D head meshes, anthropometric features, and headphone impulse responses</title>
+      <link>https://petergrosche.github.io/publication/brinkmann-2019-cross/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/brinkmann-2019-cross/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Content-based Methods for Knowledge Discovery in Music</title>
