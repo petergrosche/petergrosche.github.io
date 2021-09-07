@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenyu Jin | Peter Grosche - Audio DSP, Data Science, Music AI</title>
+    <link>https://petergrosche.github.io/author/wenyu-jin/</link>
+      <atom:link href="https://petergrosche.github.io/author/wenyu-jin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenyu Jin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Peter Grosche 2021</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petergrosche.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Wenyu Jin</title>
+      <link>https://petergrosche.github.io/author/wenyu-jin/</link>
+    </image>
+    
+    <item>
+      <title>Apparatus and method for weighting stereo audio signals</title>
+      <link>https://petergrosche.github.io/publication/jin-2020-apparatus/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/jin-2020-apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive reverberation cancellation system</title>
+      <link>https://petergrosche.github.io/publication/jin-2019-adaptive/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/jin-2019-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System and method for evaluating an acoustic transfer function</title>
+      <link>https://petergrosche.github.io/publication/jin-2016-system/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/jin-2016-system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

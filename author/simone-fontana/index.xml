@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simone Fontana | Peter Grosche - Audio DSP, Data Science, Music AI</title>
+    <link>https://petergrosche.github.io/author/simone-fontana/</link>
+      <atom:link href="https://petergrosche.github.io/author/simone-fontana/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simone Fontana</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Peter Grosche 2021</copyright><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petergrosche.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Simone Fontana</title>
+      <link>https://petergrosche.github.io/author/simone-fontana/</link>
+    </image>
+    
+    <item>
+      <title>Apparatus and method for estimating an overall mixing time based on at least a first pair of room impulse responses, as well as corresponding computer program</title>
+      <link>https://petergrosche.github.io/publication/fontana-2018-apparatus/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/fontana-2018-apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and Method for Compressing a Set of N Binaural Room Impulse Responses</title>
+      <link>https://petergrosche.github.io/publication/fontana-2016-apparatus/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/fontana-2016-apparatus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hendrik Schreiber | Peter Grosche - Audio DSP, Data Science, Music AI</title>
+    <link>https://petergrosche.github.io/author/hendrik-schreiber/</link>
+      <atom:link href="https://petergrosche.github.io/author/hendrik-schreiber/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hendrik Schreiber</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Peter Grosche 2021</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petergrosche.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Hendrik Schreiber</title>
+      <link>https://petergrosche.github.io/author/hendrik-schreiber/</link>
+    </image>
+    
+    <item>
+      <title>A Re-ordering Strategy for Accelerating Index-based Audio Fingerprinting</title>
+      <link>https://petergrosche.github.io/publication/schreiber-gm-11-finger-print-ismir/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/schreiber-gm-11-finger-print-ismir/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

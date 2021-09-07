@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Björn Schuller | Peter Grosche - Audio DSP, Data Science, Music AI</title>
+    <link>https://petergrosche.github.io/author/bjorn-schuller/</link>
+      <atom:link href="https://petergrosche.github.io/author/bjorn-schuller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Björn Schuller</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Peter Grosche 2021</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petergrosche.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Björn Schuller</title>
+      <link>https://petergrosche.github.io/author/bjorn-schuller/</link>
+    </image>
+    
+    <item>
+      <title>On-line NMF-based Stereo Up-Mixing of Speech Improves Perceived Reduction of Non-Stationary Noise</title>
+      <link>https://petergrosche.github.io/publication/kirst-2014-line/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/kirst-2014-line/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic transcription of recorded music</title>
+      <link>https://petergrosche.github.io/publication/grosche-2012-automatic/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2012-automatic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

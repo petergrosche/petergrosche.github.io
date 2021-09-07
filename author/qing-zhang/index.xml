@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qing Zhang | Peter Grosche - Audio DSP, Data Science, Music AI</title>
+    <link>https://petergrosche.github.io/author/qing-zhang/</link>
+      <atom:link href="https://petergrosche.github.io/author/qing-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qing Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Peter Grosche 2021</copyright><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petergrosche.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Qing Zhang</title>
+      <link>https://petergrosche.github.io/author/qing-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Digital compressor for compressing an audio signal</title>
+      <link>https://petergrosche.github.io/publication/grosche-2018-digital/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2018-digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio Compression System for Compressing an Audio Signal</title>
+      <link>https://petergrosche.github.io/publication/grosche-2016-audio-2/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2016-audio-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,16 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Peter Grosche - Audio DSP, Data Science, Music AI</title>
+    <title>Publications &amp; Patents | Peter Grosche - Audio DSP, Data Science, Music AI</title>
     <link>https://petergrosche.github.io/publication/</link>
       <atom:link href="https://petergrosche.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Peter Grosche 2021</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <description>Publications &amp; Patents</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Peter Grosche 2021</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petergrosche.github.io/img/icon-192.png</url>
-      <title>Publications</title>
+      <url>https://petergrosche.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications &amp; Patents</title>
       <link>https://petergrosche.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Apparatus and a method for unwrapping phase differences</title>
+      <link>https://petergrosche.github.io/publication/geiger-2020-apparatus/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/geiger-2020-apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and apparatus for acoustic scene playback</title>
+      <link>https://petergrosche.github.io/publication/grosche-2020-method/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2020-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and method for weighting stereo audio signals</title>
+      <link>https://petergrosche.github.io/publication/jin-2020-apparatus/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/jin-2020-apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound signal processing apparatus and method for enhancing a sound signal</title>
+      <link>https://petergrosche.github.io/publication/grosche-2020-sound/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2020-sound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Device and method for estimating direction of arrival</title>
+      <link>https://petergrosche.github.io/publication/kainan-2020-device/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/kainan-2020-device/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing apparatus and method</title>
+      <link>https://petergrosche.github.io/publication/pang-2019-audio/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/pang-2019-audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing apparatus and method for processing an input audio signal</title>
+      <link>https://petergrosche.github.io/publication/geiger-2019-audio/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/geiger-2019-audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing stage, audio signal processing apparatus, audio signal processing method, and computer-readable storage medium</title>
+      <link>https://petergrosche.github.io/publication/faller-2019-audio-2/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/faller-2019-audio-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing apparatus for processing an input earpiece audio signal upon the basis of a microphone audio signal</title>
+      <link>https://petergrosche.github.io/publication/faller-2019-audio-1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/faller-2019-audio-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive reverberation cancellation system</title>
+      <link>https://petergrosche.github.io/publication/jin-2019-adaptive/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/jin-2019-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal processing apparatus for enhancing a voice component within a multi-channel audio signal</title>
+      <link>https://petergrosche.github.io/publication/geiger-2019-signal/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/geiger-2019-signal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A cross-evaluated database of measured and simulated HRTFs including 3D head meshes, anthropometric features, and headphone impulse responses</title>
@@ -21,10 +109,58 @@
     </item>
     
     <item>
+      <title>Apparatus and a method for manipulating an input audio signal</title>
+      <link>https://petergrosche.github.io/publication/faller-2019-apparatus-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/faller-2019-apparatus-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The HUTUBS head-related transfer function (HRTF) database</title>
       <link>https://petergrosche.github.io/publication/11303-9429/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://petergrosche.github.io/publication/11303-9429/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing apparatus</title>
+      <link>https://petergrosche.github.io/publication/faller-2018-audio/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/faller-2018-audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital compressor for compressing an audio signal</title>
+      <link>https://petergrosche.github.io/publication/grosche-2018-digital/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2018-digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and method for estimating an overall mixing time based on at least a first pair of room impulse responses, as well as corresponding computer program</title>
+      <link>https://petergrosche.github.io/publication/fontana-2018-apparatus/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/fontana-2018-apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and mobile device for processing an audio signal</title>
+      <link>https://petergrosche.github.io/publication/grosche-2018-method/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2018-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and method for enhancing a spatial perception of an audio signal</title>
+      <link>https://petergrosche.github.io/publication/grosche-2018-apparatus/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2018-apparatus/</guid>
       <description></description>
     </item>
     
@@ -53,10 +189,58 @@
     </item>
     
     <item>
+      <title>Audio signal processing device and method for reproducing a binaural signal</title>
+      <link>https://petergrosche.github.io/publication/helwani-2017-audio/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/helwani-2017-audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio Compression System for Compressing an Audio Signal</title>
+      <link>https://petergrosche.github.io/publication/grosche-2016-audio-2/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2016-audio-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and method for improving a perception of a sound signal</title>
+      <link>https://petergrosche.github.io/publication/schuller-2016-apparatus/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/schuller-2016-apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System and method for evaluating an acoustic transfer function</title>
+      <link>https://petergrosche.github.io/publication/jin-2016-system/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/jin-2016-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and Method for Compressing a Set of N Binaural Room Impulse Responses</title>
+      <link>https://petergrosche.github.io/publication/fontana-2016-apparatus/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/fontana-2016-apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Extraction of anthropometric measures from 3d-meshes for the individualization of head-related transfer functions</title>
       <link>https://petergrosche.github.io/publication/dinakaran-2016-extraction/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       <guid>https://petergrosche.github.io/publication/dinakaran-2016-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing apparatus</title>
+      <link>https://petergrosche.github.io/publication/grosche-2016-audio-1/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2016-audio-1/</guid>
       <description></description>
     </item>
     

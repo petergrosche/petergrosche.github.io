@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CHEN Kainan | Peter Grosche - Audio DSP, Data Science, Music AI</title>
+    <link>https://petergrosche.github.io/author/chen-kainan/</link>
+      <atom:link href="https://petergrosche.github.io/author/chen-kainan/index.xml" rel="self" type="application/rss+xml" />
+    <description>CHEN Kainan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Peter Grosche 2021</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petergrosche.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>CHEN Kainan</title>
+      <link>https://petergrosche.github.io/author/chen-kainan/</link>
+    </image>
+    
+    <item>
+      <title>Apparatus and a method for unwrapping phase differences</title>
+      <link>https://petergrosche.github.io/publication/geiger-2020-apparatus/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/geiger-2020-apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Device and method for estimating direction of arrival</title>
+      <link>https://petergrosche.github.io/publication/kainan-2020-device/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/kainan-2020-device/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

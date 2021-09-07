@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christof Faller | Peter Grosche - Audio DSP, Data Science, Music AI</title>
+    <link>https://petergrosche.github.io/author/christof-faller/</link>
+      <atom:link href="https://petergrosche.github.io/author/christof-faller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christof Faller</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Peter Grosche 2021</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petergrosche.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Christof Faller</title>
+      <link>https://petergrosche.github.io/author/christof-faller/</link>
+    </image>
+    
+    <item>
+      <title>Audio signal processing apparatus and method</title>
+      <link>https://petergrosche.github.io/publication/pang-2019-audio/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/pang-2019-audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing stage, audio signal processing apparatus, audio signal processing method, and computer-readable storage medium</title>
+      <link>https://petergrosche.github.io/publication/faller-2019-audio-2/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/faller-2019-audio-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing apparatus for processing an input earpiece audio signal upon the basis of a microphone audio signal</title>
+      <link>https://petergrosche.github.io/publication/faller-2019-audio-1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/faller-2019-audio-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and a method for manipulating an input audio signal</title>
+      <link>https://petergrosche.github.io/publication/faller-2019-apparatus-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/faller-2019-apparatus-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing apparatus</title>
+      <link>https://petergrosche.github.io/publication/faller-2018-audio/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/faller-2018-audio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Pollow | Peter Grosche - Audio DSP, Data Science, Music AI</title>
+    <link>https://petergrosche.github.io/author/martin-pollow/</link>
+      <atom:link href="https://petergrosche.github.io/author/martin-pollow/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Pollow</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Peter Grosche 2021</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petergrosche.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Martin Pollow</title>
+      <link>https://petergrosche.github.io/author/martin-pollow/</link>
+    </image>
+    
+    <item>
+      <title>Audio signal processing stage, audio signal processing apparatus, audio signal processing method, and computer-readable storage medium</title>
+      <link>https://petergrosche.github.io/publication/faller-2019-audio-2/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/faller-2019-audio-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

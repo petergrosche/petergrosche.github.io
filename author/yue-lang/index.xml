@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yue Lang | Peter Grosche - Audio DSP, Data Science, Music AI</title>
+    <link>https://petergrosche.github.io/author/yue-lang/</link>
+      <atom:link href="https://petergrosche.github.io/author/yue-lang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yue Lang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Peter Grosche 2021</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petergrosche.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Yue Lang</title>
+      <link>https://petergrosche.github.io/author/yue-lang/</link>
+    </image>
+    
+    <item>
+      <title>Audio signal processing apparatus for processing an input earpiece audio signal upon the basis of a microphone audio signal</title>
+      <link>https://petergrosche.github.io/publication/faller-2019-audio-1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/faller-2019-audio-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and a method for manipulating an input audio signal</title>
+      <link>https://petergrosche.github.io/publication/faller-2019-apparatus-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/faller-2019-apparatus-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing apparatus</title>
+      <link>https://petergrosche.github.io/publication/faller-2018-audio/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/faller-2018-audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital compressor for compressing an audio signal</title>
+      <link>https://petergrosche.github.io/publication/grosche-2018-digital/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2018-digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and mobile device for processing an audio signal</title>
+      <link>https://petergrosche.github.io/publication/grosche-2018-method/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2018-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and method for enhancing a spatial perception of an audio signal</title>
+      <link>https://petergrosche.github.io/publication/grosche-2018-apparatus/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2018-apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing device and method for reproducing a binaural signal</title>
+      <link>https://petergrosche.github.io/publication/helwani-2017-audio/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/helwani-2017-audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio Compression System for Compressing an Audio Signal</title>
+      <link>https://petergrosche.github.io/publication/grosche-2016-audio-2/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2016-audio-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System and method for evaluating an acoustic transfer function</title>
+      <link>https://petergrosche.github.io/publication/jin-2016-system/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/jin-2016-system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

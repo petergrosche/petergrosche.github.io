@@ -5,209 +5,285 @@
     <link>https://petergrosche.github.io/</link>
       <atom:link href="https://petergrosche.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Grosche - Audio DSP, Data Science, Music AI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Peter Grosche 2021</copyright><lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Peter Grosche 2021</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petergrosche.github.io/img/icon-192.png</url>
+      <url>https://petergrosche.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Peter Grosche - Audio DSP, Data Science, Music AI</title>
       <link>https://petergrosche.github.io/</link>
     </image>
+    
+    <item>
+      <title>Apparatus and a method for unwrapping phase differences</title>
+      <link>https://petergrosche.github.io/publication/geiger-2020-apparatus/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/geiger-2020-apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and apparatus for acoustic scene playback</title>
+      <link>https://petergrosche.github.io/publication/grosche-2020-method/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2020-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and method for weighting stereo audio signals</title>
+      <link>https://petergrosche.github.io/publication/jin-2020-apparatus/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/jin-2020-apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound signal processing apparatus and method for enhancing a sound signal</title>
+      <link>https://petergrosche.github.io/publication/grosche-2020-sound/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2020-sound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Device and method for estimating direction of arrival</title>
+      <link>https://petergrosche.github.io/publication/kainan-2020-device/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/kainan-2020-device/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing apparatus and method</title>
+      <link>https://petergrosche.github.io/publication/pang-2019-audio/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/pang-2019-audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing apparatus and method for processing an input audio signal</title>
+      <link>https://petergrosche.github.io/publication/geiger-2019-audio/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/geiger-2019-audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing stage, audio signal processing apparatus, audio signal processing method, and computer-readable storage medium</title>
+      <link>https://petergrosche.github.io/publication/faller-2019-audio-2/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/faller-2019-audio-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing apparatus for processing an input earpiece audio signal upon the basis of a microphone audio signal</title>
+      <link>https://petergrosche.github.io/publication/faller-2019-audio-1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/faller-2019-audio-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CV</title>
       <link>https://petergrosche.github.io/cv/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://petergrosche.github.io/cv/</guid>
-      <description>&lt;table cellspacing=&#34;0&#34; border=&#34;0&#34; style=&#34;line-height:1.0&#34;&gt;
-    
-    &lt;colgroup width=&#34;150&#34;&gt;&lt;/colgroup&gt;
-    &lt;colgroup width=&#34;15&#34;&gt;&lt;/colgroup&gt;
-    &lt;colgroup width=&#34;520&#34;&gt;&lt;/colgroup&gt;
-    &lt;tr&gt;
-        &lt;td style=&#34;border-bottom: 1px solid #000000&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;Experience&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;td style=&#34;border-bottom: 1px solid #000000&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td style=&#34;border-bottom: 1px solid #000000&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;18&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Audio Technologies Researcher at Huawei Technologies, Munich Research Center&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;01.2017 &amp;ndash; present&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Principal Research Engineer&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;124&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Audio technology specialist for media playback, speech enhancement, AR/VR and Audio Intelligence applications for smartphones&lt;br&gt;Designing DSP solutions for loudspeaker correction and protection, microphone array speech processing, and VR 3D audio rendering&lt;br&gt;Developing AI systems for media content and music genre recognition (DNN), acoustic scene and environment recognition (SVM) and source separation (LSTM)&lt;br&gt;Ensuring deliverables from R&amp;amp;D of next generation audio solutions to products&lt;br&gt;Implementation of algorithms in Matlab, Pyton, float C utilizing TensorFlow, Keras, CURRENNT, and TF Lite toolkits&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;01.2015 &amp;ndash; 12.2016&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Senior Research Engineer&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;144&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Developing DSP solutions for sound playback enhancement (micro-speaker and headphones) and voice communication (uplink and downlink)&lt;br&gt;Extending SWS: incorporating algorithms for stereo to 5 channel upmixing, dialogue enhancement, and crosstalk cancellation&lt;br&gt;Researching speech enhancement algorithms for voice communication, microphone array noise reduction and speech intelligibility enhancement&lt;br&gt;Implementing algorithms in Matlab and float C; developing real-time demonstrators using VST and Android SDK/NDK toolkits&lt;br&gt;Delivering algorithms to tablets (Mediapads M2, M3) and smartphones (Mate 9)&lt;br&gt;Managing technical collaboration projects with universities and SMEs &lt;br&gt;Securing IPR, filing 30+ PCT applications&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;11.2012 &amp;ndash; 12.2014&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Research Engineer 3D Audio&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;144&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Designing a complete DSP solution for sound playback enhancement with increased sound quality on smartphones&lt;br&gt;Delivering the Huawei SWS (Super Wide Sound) sound enhancement solution to Huawei Mediapad products (replacing the omnipresent DTS suite)&lt;br&gt;Developing algorithms: EQ, DRC, limiting, bass enhancement (missing fundamental), binaural rendering and crosstalk cancellation&lt;br&gt;Rapid prototyping, product related research and demonstration of audio DSP algorithms to stakeholders and product lines&lt;br&gt;Implementing a complete sound enhancement solution satisfying product requirements (Matlab), writing efficient code meeting hardware limitations (floating point C) and assisting fixed-point integration (Tensilica HiFi)&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Music Information Retrieval Researcher at Saarland University, Saarbr&amp;uuml;cken&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;06.2008 &amp;ndash; 10.2012&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Research and teaching in the field of audio and music signal processing and music information retrieval&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Developing audio DSP algorithms for music analysis, feature extraction, and efficient content-based search in large music databases&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;67&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Researching beat tracking and tempo estimation algorithms which can cope with time variying tempo and classical music without drums; repetition based music segmentation and structure analysis (chorus detection); music retrieval and cover song recognition based on Locality-sensitive hashing (LSH) for efficient similarity search; music transcription and chord recognition&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Research intern at NYU Music and Audio Research Laboratory, New York&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;10.2010 &amp;ndash; 11.2010&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Developed an unsupervised musical motif discovery system using sparse convolutive Non-Negative Matrix Factorization (NMF) in Python&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Research intern at the Audio &amp;amp; Multimedia Department at Fraunhofer IIS, Erlangen&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;02.2007 &amp;ndash; 05.2007&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Surround Upmix: Development of algorithms for converting stereo to 5.1 (Matlab)&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Instrument recognition in polyphonic music signals based on Hidden Markov Models (HMM) using HTK Speech Recognition toolkit&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Research assistant at the Institute for Human-Machine Communication, TUM&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;12.2005 &amp;ndash; 01.2006&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Assisted in building a multimodal database for developing and evaluating&lt;br&gt;emotion recognition procedures&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Intern at Akustikb&amp;uuml;ro Schwartzenberger &amp;amp; Burkhart, P&amp;ouml;cking, Germany.&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;02.2005 &amp;ndash; 04.2005&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Room acoustic measurements, simulations and optimizations&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td style=&#34;border-bottom: 1px solid #000000&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;Education&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;td style=&#34;border-bottom: 1px solid #000000&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td style=&#34;border-bottom: 1px solid #000000&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;PhD in Computer Science at Saarland University and Max-Planck-Institut Informatik, Saarbr&amp;uuml;cken, Germany&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;29&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;06.2008 &amp;ndash; 11.2012&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Title of PhD thesis: &amp;quot;Signal Processing Methods for Beat Tracking, Music Segmentation, and Audio Retrieval&amp;quot;&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;20&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;20+ publications at scientific conferences, journals and books&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;20&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Supervised by Prof. Meinard M&amp;uuml;ller&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;20&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Degree: Dr.-Ing, Grade: magna cum laude (very good)&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Master in Electrical Engineering and Information Technology at TU M&amp;uuml;nchen, Germany&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;33&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;10.2004 &amp;ndash; 05.2008&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Main focus on Digital Signal Processing, Pattern Recognition, Information Retrieval and Human-Machine Interaction; Personal focus on audio and music analysis&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;68&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Diploma thesis: &amp;quot;Polyphonic Music Transcription based on Real Audio&amp;quot;&lt;br&gt;Supervised by Prof. Bj&amp;ouml;rn Schuller&lt;br&gt;Developed a complete system deriving a symbolic MIDI representation from a polyphonic audio recording; combining mulit-pitch estimation, onset detection and Hidden Markov Models (HMM) for pitch tracking. &lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;20&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Degree: Dipl.-Ing. Univ., Grade: 1.5 (very good)&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Studies abroad: Lunds Universitet, Lund, Sweden&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;08.2006 &amp;ndash; 01.2007&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Selected courses in Machine Learning and statistics&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Undergraduate studies in Electrical Engineering and Information Technology at TU M&amp;uuml;nchen, Germany&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;10.2002 &amp;ndash; 10.2004&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Main focus on Information Technology and Communication Engineering&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;29&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Bachelor thesis: &amp;quot;An Application for Automatically Organizing, Structuring, and Analyzing Large Music Collections&amp;quot;&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;42&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Developed a foobar2000 component adding genre recognition and music similarity search functionality based on custom feature extraction and SVM classification; Tools: Weka, LIBSVM, C++&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td height=&#34;20&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
-        &lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Degree: B.Sc., Grade: 1.6 (good)&lt;/font&gt;&lt;/td&gt;
-    &lt;/tr&gt;
+      <description>
+
+&lt;table cellspacing=&#34;0&#34; border=&#34;0&#34; style=&#34;line-height:1.0&#34;&gt;
+	
+	&lt;colgroup width=&#34;150&#34;&gt;&lt;/colgroup&gt;
+	&lt;colgroup width=&#34;15&#34;&gt;&lt;/colgroup&gt;
+	&lt;colgroup width=&#34;520&#34;&gt;&lt;/colgroup&gt;
+	&lt;tr&gt;
+		&lt;td style=&#34;border-bottom: 1px solid #000000&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;Experience&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;td style=&#34;border-bottom: 1px solid #000000&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td style=&#34;border-bottom: 1px solid #000000&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;18&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Audio Technologies Researcher at Huawei Technologies, Munich Research Center&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;01.2017 &amp;ndash; present&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Principal Research Engineer&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;124&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Audio technology specialist for media playback, speech enhancement, AR/VR and Audio Intelligence applications for smartphones&lt;br&gt;Designing DSP solutions for loudspeaker correction and protection, microphone array speech processing, and VR 3D audio rendering&lt;br&gt;Developing AI systems for media content and music genre recognition (DNN), acoustic scene and environment recognition (SVM) and source separation (LSTM)&lt;br&gt;Ensuring deliverables from R&amp;amp;D of next generation audio solutions to products&lt;br&gt;Implementation of algorithms in Matlab, Pyton, float C utilizing TensorFlow, Keras, CURRENNT, and TF Lite toolkits&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;01.2015 &amp;ndash; 12.2016&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Senior Research Engineer&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;144&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Developing DSP solutions for sound playback enhancement (micro-speaker and headphones) and voice communication (uplink and downlink)&lt;br&gt;Extending SWS: incorporating algorithms for stereo to 5 channel upmixing, dialogue enhancement, and crosstalk cancellation&lt;br&gt;Researching speech enhancement algorithms for voice communication, microphone array noise reduction and speech intelligibility enhancement&lt;br&gt;Implementing algorithms in Matlab and float C; developing real-time demonstrators using VST and Android SDK/NDK toolkits&lt;br&gt;Delivering algorithms to tablets (Mediapads M2, M3) and smartphones (Mate 9)&lt;br&gt;Managing technical collaboration projects with universities and SMEs &lt;br&gt;Securing IPR, filing 30+ PCT applications&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;11.2012 &amp;ndash; 12.2014&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Research Engineer 3D Audio&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;144&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Designing a complete DSP solution for sound playback enhancement with increased sound quality on smartphones&lt;br&gt;Delivering the Huawei SWS (Super Wide Sound) sound enhancement solution to Huawei Mediapad products (replacing the omnipresent DTS suite)&lt;br&gt;Developing algorithms: EQ, DRC, limiting, bass enhancement (missing fundamental), binaural rendering and crosstalk cancellation&lt;br&gt;Rapid prototyping, product related research and demonstration of audio DSP algorithms to stakeholders and product lines&lt;br&gt;Implementing a complete sound enhancement solution satisfying product requirements (Matlab), writing efficient code meeting hardware limitations (floating point C) and assisting fixed-point integration (Tensilica HiFi)&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Music Information Retrieval Researcher at Saarland University, Saarbr&amp;uuml;cken&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;06.2008 &amp;ndash; 10.2012&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Research and teaching in the field of audio and music signal processing and music information retrieval&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Developing audio DSP algorithms for music analysis, feature extraction, and efficient content-based search in large music databases&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;67&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Researching beat tracking and tempo estimation algorithms which can cope with time variying tempo and classical music without drums; repetition based music segmentation and structure analysis (chorus detection); music retrieval and cover song recognition based on Locality-sensitive hashing (LSH) for efficient similarity search; music transcription and chord recognition&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Research intern at NYU Music and Audio Research Laboratory, New York&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;10.2010 &amp;ndash; 11.2010&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Developed an unsupervised musical motif discovery system using sparse convolutive Non-Negative Matrix Factorization (NMF) in Python&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Research intern at the Audio &amp;amp; Multimedia Department at Fraunhofer IIS, Erlangen&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;02.2007 &amp;ndash; 05.2007&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Surround Upmix: Development of algorithms for converting stereo to 5.1 (Matlab)&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Instrument recognition in polyphonic music signals based on Hidden Markov Models (HMM) using HTK Speech Recognition toolkit&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Research assistant at the Institute for Human-Machine Communication, TUM&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;28&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;12.2005 &amp;ndash; 01.2006&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Assisted in building a multimodal database for developing and evaluating&lt;br&gt;emotion recognition procedures&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Intern at Akustikb&amp;uuml;ro Schwartzenberger &amp;amp; Burkhart, P&amp;ouml;cking, Germany.&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;02.2005 &amp;ndash; 04.2005&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Room acoustic measurements, simulations and optimizations&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&#34;border-bottom: 1px solid #000000&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;Education&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;td style=&#34;border-bottom: 1px solid #000000&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td style=&#34;border-bottom: 1px solid #000000&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;PhD in Computer Science at Saarland University and Max-Planck-Institut Informatik, Saarbr&amp;uuml;cken, Germany&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;29&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;06.2008 &amp;ndash; 11.2012&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Title of PhD thesis: &amp;quot;Signal Processing Methods for Beat Tracking, Music Segmentation, and Audio Retrieval&amp;quot;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;20&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;20+ publications at scientific conferences, journals and books&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;20&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Supervised by Prof. Meinard M&amp;uuml;ller&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;20&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Degree: Dr.-Ing, Grade: magna cum laude (very good)&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Master in Electrical Engineering and Information Technology at TU M&amp;uuml;nchen, Germany&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;33&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;10.2004 &amp;ndash; 05.2008&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Main focus on Digital Signal Processing, Pattern Recognition, Information Retrieval and Human-Machine Interaction; Personal focus on audio and music analysis&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;68&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Diploma thesis: &amp;quot;Polyphonic Music Transcription based on Real Audio&amp;quot;&lt;br&gt;Supervised by Prof. Bj&amp;ouml;rn Schuller&lt;br&gt;Developed a complete system deriving a symbolic MIDI representation from a polyphonic audio recording; combining mulit-pitch estimation, onset detection and Hidden Markov Models (HMM) for pitch tracking. &lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;20&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Degree: Dipl.-Ing. Univ., Grade: 1.5 (very good)&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Studies abroad: Lunds Universitet, Lund, Sweden&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;08.2006 &amp;ndash; 01.2007&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Selected courses in Machine Learning and statistics&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan=&#34;3&#34; height=&#34;20&#34; align=&#34;left&#34; valign=&#34;bottom&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Undergraduate studies in Electrical Engineering and Information Technology at TU M&amp;uuml;nchen, Germany&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;20&#34; align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;10.2002 &amp;ndash; 10.2004&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;b&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Main focus on Information Technology and Communication Engineering&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;29&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Bachelor thesis: &amp;quot;An Application for Automatically Organizing, Structuring, and Analyzing Large Music Collections&amp;quot;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;42&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Developed a foobar2000 component adding genre recognition and music similarity search functionality based on custom feature extraction and SVM classification; Tools: Weka, LIBSVM, C++&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td height=&#34;20&#34; align=&#34;right&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; color=&#34;#000000&#34;&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+		&lt;td align=&#34;left&#34; valign=&#34;middle&#34;&gt;&lt;font face=&#34;Calibri&#34; size=&#34;2&#34; color=&#34;#000000&#34;&gt;Degree: B.Sc., Grade: 1.6 (good)&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
 &lt;/table&gt;
+
+
 </description>
     </item>
     
@@ -216,28 +292,35 @@
       <link>https://petergrosche.github.io/legal/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://petergrosche.github.io/legal/</guid>
-      <description>
-
-&lt;h4 id=&#34;information-in-accordance-with-section-5-tmg&#34;&gt;Information in accordance with Section 5 TMG&lt;/h4&gt;
-
-&lt;p&gt;Peter Grosche&lt;br /&gt;
-Limmatstr. 3&lt;br /&gt;
+      <description>&lt;h4 id=&#34;information-in-accordance-with-section-5-tmg&#34;&gt;Information in accordance with Section 5 TMG&lt;/h4&gt;
+&lt;p&gt;Peter Grosche&lt;br&gt;
+Limmatstr. 3&lt;br&gt;
 81476 München&lt;/p&gt;
-
 &lt;h4 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h4&gt;
-
-&lt;p&gt;Telephone: 01788818922&lt;br /&gt;
-E-Mail: peter.grosche@gmail.com&lt;/p&gt;
-
+&lt;p&gt;Telephone: 01788818922&lt;br&gt;
+E-Mail: &lt;a href=&#34;mailto:peter.grosche@gmail.com&#34;&gt;peter.grosche@gmail.com&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h4&gt;
-
 &lt;p&gt;The contents on my homepage have been created with the adequate care. However, I cannot guarantee that the contents are accurate, complete or up-to-date. According to statutory provisions, I am responsible for my own content but I am not obliged to monitor the information of third parties or investigate signs of illegal activity. My obligation to prevent the use of information under generally applicable laws remains unaffected by this as per §§ 8 to 10 of the Telemedia Act (TMG).
 Responsibility for the content of linked external pages remains solely with the operators of the linked pages. No violations were evident to me at the time of linking. Should any legal infringement become known to me, I will remove the link immediately.&lt;/p&gt;
-
 &lt;h4 id=&#34;copyright&#34;&gt;Copyright&lt;/h4&gt;
-
 &lt;p&gt;My contents are subject to German copyright law. Unless expressly permitted by law, every form of utilizing, reproducing or processing content on my web pages requires the prior consent of the respective owner of the rights. Any unauthorized use may violate copyright laws.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Adaptive reverberation cancellation system</title>
+      <link>https://petergrosche.github.io/publication/jin-2019-adaptive/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/jin-2019-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal processing apparatus for enhancing a voice component within a multi-channel audio signal</title>
+      <link>https://petergrosche.github.io/publication/geiger-2019-signal/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/geiger-2019-signal/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -249,10 +332,58 @@ Responsibility for the content of linked external pages remains solely with the 
     </item>
     
     <item>
+      <title>Apparatus and a method for manipulating an input audio signal</title>
+      <link>https://petergrosche.github.io/publication/faller-2019-apparatus-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/faller-2019-apparatus-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The HUTUBS head-related transfer function (HRTF) database</title>
       <link>https://petergrosche.github.io/publication/11303-9429/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://petergrosche.github.io/publication/11303-9429/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing apparatus</title>
+      <link>https://petergrosche.github.io/publication/faller-2018-audio/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/faller-2018-audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital compressor for compressing an audio signal</title>
+      <link>https://petergrosche.github.io/publication/grosche-2018-digital/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2018-digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and method for estimating an overall mixing time based on at least a first pair of room impulse responses, as well as corresponding computer program</title>
+      <link>https://petergrosche.github.io/publication/fontana-2018-apparatus/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/fontana-2018-apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and mobile device for processing an audio signal</title>
+      <link>https://petergrosche.github.io/publication/grosche-2018-method/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2018-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and method for enhancing a spatial perception of an audio signal</title>
+      <link>https://petergrosche.github.io/publication/grosche-2018-apparatus/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2018-apparatus/</guid>
       <description></description>
     </item>
     
@@ -281,10 +412,58 @@ Responsibility for the content of linked external pages remains solely with the 
     </item>
     
     <item>
+      <title>Audio signal processing device and method for reproducing a binaural signal</title>
+      <link>https://petergrosche.github.io/publication/helwani-2017-audio/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/helwani-2017-audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio Compression System for Compressing an Audio Signal</title>
+      <link>https://petergrosche.github.io/publication/grosche-2016-audio-2/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2016-audio-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and method for improving a perception of a sound signal</title>
+      <link>https://petergrosche.github.io/publication/schuller-2016-apparatus/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/schuller-2016-apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System and method for evaluating an acoustic transfer function</title>
+      <link>https://petergrosche.github.io/publication/jin-2016-system/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/jin-2016-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and Method for Compressing a Set of N Binaural Room Impulse Responses</title>
+      <link>https://petergrosche.github.io/publication/fontana-2016-apparatus/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/fontana-2016-apparatus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Extraction of anthropometric measures from 3d-meshes for the individualization of head-related transfer functions</title>
       <link>https://petergrosche.github.io/publication/dinakaran-2016-extraction/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       <guid>https://petergrosche.github.io/publication/dinakaran-2016-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio signal processing apparatus</title>
+      <link>https://petergrosche.github.io/publication/grosche-2016-audio-1/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/publication/grosche-2016-audio-1/</guid>
       <description></description>
     </item>
     
@@ -549,6 +728,14 @@ Responsibility for the content of linked external pages remains solely with the 
       <link>https://petergrosche.github.io/publication/grosche-2006-ba/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>https://petergrosche.github.io/publication/grosche-2006-ba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://petergrosche.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://petergrosche.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
